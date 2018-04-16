@@ -1,0 +1,26 @@
+
+.album-1{
+  border: 3px solid green;
+  padding: 10px;
+}
+
+.album-2{
+  border: 3px solid blue;
+  padding: 10px;
+}
+
+.album-3{
+  border: 3px solid purple;
+  padding: 10px;
+}
+
+.photo{
+  width: 100%;
+}
+
+.wrap-text{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
